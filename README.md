@@ -13,6 +13,9 @@ The following are the screenshots of the projects developed.
 <img src="https://github.com/user-attachments/assets/5398a675-905b-4366-91f6-0828525bad65" alt="Screenshot_2024-09-03-21-43-51-311_com example to_do_list_app" width="200">
 <img src="https://github.com/user-attachments/assets/8267a4f3-4428-4949-b22d-d3d9e39d3c20" alt="Screenshot_2024-09-03-21-43-56-345_com example to_do_list_app" width="200">
 
+2.Quiz App
+<img src="https://github.com/user-attachments/assets/3f51d392-53a5-4e54-9918-10ea68516a89" alt="Screenshot_2024-11-15-21-52-24-057_com example adv_basics" width="200">
+
 
 
 

@@ -26,7 +26,13 @@ The following are the screenshots of the projects developed.
 <img src ="https://github.com/user-attachments/assets/ec37a1ca-a24a-43b2-b21a-4a318da6786b" alt ="Screenshot_2024-11-15-21-53-57-252_com example adv_basics" width="200">
 <img src ="https://github.com/user-attachments/assets/b50b98b0-f995-424e-87ac-04a36aa5b88a" alt ="Screenshot_2024-11-15-21-54-02-092_com example adv_basics" width="200">
 
+Shopping Cart App
 
+<img src="https://github.com/user-attachments/assets/a383b21b-e9c1-4051-8c21-fcc85ef1703f" alt="Screenshot_2024-11-15-22-35-04-694_com example shopping_cart" width="200">
+<img src="https://github.com/user-attachments/assets/0fca4611-3432-474f-8ff7-4c55b9c777c7" alt="Screenshot_2024-11-15-22-35-20-599_com example shopping_cart" width="200">
+<img src="https://github.com/user-attachments/assets/e28041e5-c65d-4450-ac2b-120a68cd3e9d" alt="Screenshot_2024-11-15-22-35-56-500_com example shopping_cart" width="200">
+<img src="https://github.com/user-attachments/assets/fc267764-cc40-4e47-885f-0f99806aee95" alt="Screenshot 2024-11-16 105930" height="250" width="400">
+<img src="https://github.com/user-attachments/assets/1756a18a-34ca-4bca-bd02-a67e2b694248" alt="Screenshot_2024-11-15-22-36-26-723_com example shopping_cart" width="200">
 
 
 

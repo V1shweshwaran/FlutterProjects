@@ -26,15 +26,23 @@ The following are the screenshots of the projects developed.
 <img src ="https://github.com/user-attachments/assets/ec37a1ca-a24a-43b2-b21a-4a318da6786b" alt ="Screenshot_2024-11-15-21-53-57-252_com example adv_basics" width="200">
 <img src ="https://github.com/user-attachments/assets/b50b98b0-f995-424e-87ac-04a36aa5b88a" alt ="Screenshot_2024-11-15-21-54-02-092_com example adv_basics" width="200">
 
-Shopping Cart App
+3.Shopping Cart App with storage in firebase realtime database
 
 <img src="https://github.com/user-attachments/assets/a383b21b-e9c1-4051-8c21-fcc85ef1703f" alt="Screenshot_2024-11-15-22-35-04-694_com example shopping_cart" width="200">
 <img src="https://github.com/user-attachments/assets/0fca4611-3432-474f-8ff7-4c55b9c777c7" alt="Screenshot_2024-11-15-22-35-20-599_com example shopping_cart" width="200">
 <img src="https://github.com/user-attachments/assets/e28041e5-c65d-4450-ac2b-120a68cd3e9d" alt="Screenshot_2024-11-15-22-35-56-500_com example shopping_cart" width="200">
-<img src="https://github.com/user-attachments/assets/fc267764-cc40-4e47-885f-0f99806aee95" alt="Screenshot 2024-11-16 105930" height="250" width="400">
+<img src="https://github.com/user-attachments/assets/fc267764-cc40-4e47-885f-0f99806aee95" alt="Screenshot 2024-11-16 105930" height="400" width="600">
 <img src="https://github.com/user-attachments/assets/1756a18a-34ca-4bca-bd02-a67e2b694248" alt="Screenshot_2024-11-15-22-36-26-723_com example shopping_cart" width="200">
 
+4.Expense Tracker App
 
+<img src = "https://github.com/user-attachments/assets/c1a004cf-75d1-4601-b4be-de33eea03b62" alt = "Screenshot_2024-11-16-16-38-05-585_com example expenses_tracker_app" width ="200">
+<img src = "https://github.com/user-attachments/assets/79828f14-2156-4892-bfe4-832518b99959" alt = "Screenshot_2024-11-16-16-38-10-980_com example expenses_tracker_app" width ="200">
+<img src = "https://github.com/user-attachments/assets/0fe243e6-a314-4ac6-bbf8-3bd9430b6fbe" alt = "Screenshot_2024-11-16-16-38-15-711_com example expenses_tracker_app" width ="200">
+<img src = "https://github.com/user-attachments/assets/feae21ce-c8ae-464c-a930-07e24e6570ce" alt = "Screenshot_2024-11-16-16-38-35-937_com example expenses_tracker_app" width ="200">
+<img src = "https://github.com/user-attachments/assets/9b786f97-0526-4081-9ae7-42ab7ecc09ba" alt = "Screenshot_2024-11-16-16-39-33-079_com example expenses_tracker_app" width ="200">
+<img src = "https://github.com/user-attachments/assets/0a2f8d3a-2815-43b2-b109-269c6822d486" alt = "Screenshot_2024-11-16-16-39-27-576_com example expenses_tracker_app" width ="200">
+<img src = "https://github.com/user-attachments/assets/9e954d08-aefe-410d-a70e-b4c215d5c7a1" alt = "Screenshot_2024-11-16-16-39-36-926_com example expenses_tracker_app" width ="200">
 
 
 

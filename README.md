@@ -13,6 +13,22 @@ The following are the screenshots of the projects developed.
 <img src="https://github.com/user-attachments/assets/5398a675-905b-4366-91f6-0828525bad65" alt="Screenshot_2024-09-03-21-43-51-311_com example to_do_list_app" width="200">
 <img src="https://github.com/user-attachments/assets/8267a4f3-4428-4949-b22d-d3d9e39d3c20" alt="Screenshot_2024-09-03-21-43-56-345_com example to_do_list_app" width="200">
 
+2.Quiz App
+
+<img src="https://github.com/user-attachments/assets/3f51d392-53a5-4e54-9918-10ea68516a89" alt="Screenshot_2024-11-15-21-52-24-057_com example adv_basics" width="200">
+<img src = "https://github.com/user-attachments/assets/8f5fcd9d-d8be-4404-86f0-fe6db5c15c1d" alt="Screenshot_2024-11-15-21-52-44-609_com example adv_basics" width="200">
+<img src ="https://github.com/user-attachments/assets/ca4a3cc9-837a-41c8-98d4-29fcad42e75b" alt ="Screenshot_2024-11-15-21-52-53-270_com example adv_basics" width="200">
+<img src ="https://github.com/user-attachments/assets/abe712a7-fa1a-4246-b0f9-3d79758fb8f0" alt ="Screenshot_2024-11-15-21-53-07-395_com example adv_basics" width="200">
+<img src ="https://github.com/user-attachments/assets/98c0ceea-6042-47dc-b064-a542876fd79c" alt ="Screenshot_2024-11-15-21-53-21-307_com example adv_basics" width="200">
+<img src ="https://github.com/user-attachments/assets/dde67b8e-36cb-4cad-a468-1421f6a1dc50" alt ="Screenshot_2024-11-15-21-53-21-307_com example adv_basics" width="200">
+<img src ="https://github.com/user-attachments/assets/01a41160-cacb-46be-a6cf-25fbbc03f34f" alt ="Screenshot_2024-11-15-21-53-27-460_com example adv_basics" width="200">
+<img src ="https://github.com/user-attachments/assets/2593b083-1b78-4755-a94a-8799f28468ed" alt ="Screenshot_2024-11-15-21-53-46-310_com example adv_basics" width="200">
+<img src ="https://github.com/user-attachments/assets/ec37a1ca-a24a-43b2-b21a-4a318da6786b" alt ="Screenshot_2024-11-15-21-53-57-252_com example adv_basics" width="200">
+<img src ="https://github.com/user-attachments/assets/b50b98b0-f995-424e-87ac-04a36aa5b88a" alt ="Screenshot_2024-11-15-21-54-02-092_com example adv_basics" width="200">
+
+
+
+
 
 
 
